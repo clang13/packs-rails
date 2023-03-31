@@ -35,7 +35,6 @@ module Packs
       config
       config/locales
       config/initializers
-      config/routes
     )
   end
 
